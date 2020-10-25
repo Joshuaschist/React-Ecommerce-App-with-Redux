@@ -3,7 +3,7 @@
 .quantity {
   float: left;
   margin-right: 15px;
-  background-color: #eee;
+  background-color: rgb(27, 24, 185);
   position: relative;
   width: 80px;
   overflow: hidden
@@ -43,8 +43,9 @@
   -moz-border-radius: 0;
   border-radius: 0;
   -webkit-background-size: 6px 30px;
+  background-size: 6px 30px;
   -moz-background-size: 6px 30px;
-  color: #bbb;
+  color: rgb(44, 36, 151);
   font-size: 20px;
   position: absolute;
   height: 50%;
